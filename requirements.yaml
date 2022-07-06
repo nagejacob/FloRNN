@@ -1,0 +1,22 @@
+name: video_denoising
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=10.2.89
+  - cupy=8.2.0
+  - imageio=2.9.0
+  - mkl=2019.4
+  - more-itertools=8.6.0
+  - opencv=3.4.2
+  - pip=20.0.2
+  - pypng=0.0.20
+  - python=3.7
+  - pytorch=1.7.0
+  - scikit-image=0.16.2
+  - scipy=1.5.2
+  - torchvision=0.8.1
+  - pip:
+      - future==0.18.2
+      - tensorboardx==2.0
