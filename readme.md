@@ -63,7 +63,7 @@ If you find our work useful in your research or publication, please cite:
 @article{li2022unidirectional,
   title={Unidirectional Video Denoising by Mimicking Backward Recurrent Modules with Look-ahead Forward Ones},
   author={Li, Junyi and Wu, Xiaohe and Niu, Zhenxing and Zuo, Wangmeng},
-  journal={arXiv preprint arXiv:2204.05532},
+  booktitle={ECCV},
   year={2022}
 }
 ```
